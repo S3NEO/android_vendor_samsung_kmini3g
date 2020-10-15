@@ -185,9 +185,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kmini3g/proprietary/vendor/lib/libscve.so:system/vendor/lib/libscve.so \
     vendor/samsung/kmini3g/proprietary/vendor/lib/libscve_stub.so:system/vendor/lib/libscve_stub.so \
     vendor/samsung/kmini3g/proprietary/vendor/lib/libsensor1.so:system/vendor/lib/libsensor1.so \
-    vendor/samsung/kmini3g/proprietary/system/vendor/lib/libsensor1.so:system/system/vendor/lib/libsensor1.so \
     vendor/samsung/kmini3g/proprietary/vendor/lib/libsensor_reg.so:system/vendor/lib/libsensor_reg.so \
-    vendor/samsung/kmini3g/proprietary/system/vendor/lib/libsensor_reg.so:system/system/vendor/lib/libsensor_reg.so \
     vendor/samsung/kmini3g/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
     vendor/samsung/kmini3g/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/samsung/kmini3g/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
